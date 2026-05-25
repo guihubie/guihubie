@@ -6,7 +6,7 @@ I'm a Growth Marketer turned Marketing Engineer. Currently Head of Growth at **E
 
 ## 🔧 Tools I use
 
-`Google Ads` `Meta Ads` `TikTok Ads` `LinkedIn Ads` `Reddit Ads` `Ahrefs` `Plausible` `Posthog` `Metabase` `GTM` `Python` `Astro` `Tailwind CSS` `Supabase` `Cursor` `n8n` `Lemlist` `HubSpot` `Notion` `Figma`
+`Google Ads` `Meta Ads` `Ahrefs` `Plausible` `Posthog` `Metabase` `GTM` `Python` `Astro` `Tailwind CSS` `Supabase` `Cursor` `Claude` `Lemlist` `HubSpot` `Notion` `Figma`
 
 ---
 
